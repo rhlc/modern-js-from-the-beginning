@@ -1,6 +1,6 @@
 # Modern JS From The Beginning
 
-Code along repository for Udemy course [modern javascript from the beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning).
+Code along repository for Udemy course 👉 [modern javascript from the beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning).
 
 ## 1. DOM Projects
 
@@ -16,3 +16,11 @@ Code along repository for Udemy course [modern javascript from the beginning](ht
 
 - [x] Github path finder
 - [x] WeatherJS
+
+## 4. RE
+
+- [x] From validation
+
+## 5. Iterators
+
+- [x] Mini profile scroller
