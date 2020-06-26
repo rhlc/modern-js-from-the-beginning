@@ -1,7 +1,5 @@
 # Modern JS From The Beginning
 
-Code along repository for Udemy course 👉 [modern javascript from the beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning).
-
 ## 1. DOM Projects
 
 - [x] Task list
@@ -24,3 +22,11 @@ Code along repository for Udemy course 👉 [modern javascript from the beginnin
 ## 5. Iterators
 
 - [x] Mini profile scroller
+
+## 6. Module Pattern
+
+- [ ] Calorie tracker app
+
+## 7. CRUD front end
+
+- [ ] Microposts
